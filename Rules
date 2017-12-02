@@ -1,0 +1,40 @@
+Rules :
+
+1.	If Height is 170-180
+then person is Tall .
+
+2.	If Height is 150-170 
+then person is Average.
+
+3.	If Height is 120-150 
+then person is Short  .
+
+4.	If Height is 170-180
+and mean is low 
+then person is Tall  .
+
+5.	If Height is 170-180
+and mean is medium 
+then person is Tall  .
+
+6.	If Height is 150-170 
+and mean is medium 
+then person is  Average.
+
+
+7.	If Height is Average
+and mean is low 
+then person is Tall. 
+
+8.	If Height is Average
+and mean is high 
+then person is Average. 
+
+9.	If Height is short 
+and mean is high 
+then person is Average.
+
+10.	If Height is short 
+and mean is medium 
+then person is short.
+
